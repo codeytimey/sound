@@ -1,0 +1,39 @@
+#heads{
+background-color: coral;
+}
+
+#title{
+    font-family: 'Oooh Baby', cursive;
+    font-weight: bolder;
+}
+
+#note{
+    font-family: 'Oooh Baby', cursive;
+    font-weight: bold;
+}
+
+#result_label, #result_confidence{
+    font-family: monospace;
+}
+
+body{
+    background: darkcyan; 
+}
+
+.copyright_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: rgb(236, 221, 187);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+.style{
+    margin-top:30px;
+    letter-spacing: 2px;
+    font-family:serif ;
+}
